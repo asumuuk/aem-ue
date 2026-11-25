@@ -1,5 +1,0 @@
-mountpoints:
-  /:
-    url: "https://author-p241655-e2403614.adobeaemcloud.com/bin/franklin.delivery/asumuuk/aem-ue/main"
-    type: "markup"
-    suffix: ".html"
